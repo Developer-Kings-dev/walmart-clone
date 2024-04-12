@@ -1,0 +1,1 @@
+const getsalary = require
